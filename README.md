@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Oi 👋, eu sou anabeatrizdscotrim</h1>
+<h3 align="center">Estudante de Engenharia de Software</h3>
 
-<!--
-**anabeatrizdscotrim/anabeatrizdscotrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Eu estou atualmente trabalhando em [Bite by Bite](https://sites.google.com/edu.unifil.br/bitebybite/p%C3%A1gina-inicial)
 
-Here are some ideas to get you started:
+- 🤝 Estou procurando ajuda em **Bite by Bite**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Como me achar **anabeatrizdscotrim@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/ana.beatrizds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ana.beatrizds" height="30" width="40" /></a>
+</p>
